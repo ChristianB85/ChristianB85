@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Christian
 - 👀 I’m interested in gaming, game development, software development.
 - 🌱 I’m currently learning cross-platform App development.
-- 📫 How to reach me over my portfolio https://www.christian-brueckl.de/
+- 📫 You reach me over my portfolio https://www.christian-brueckl.de/
 - ⚡ Fun fact: Water is the same everywhere, it just depends on where you buy it. 
 
 <!---
